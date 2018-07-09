@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo -u jenkins -E /jenkins-swarm-client.sh
+
